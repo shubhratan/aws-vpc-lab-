@@ -1,5 +1,5 @@
 
-## AWS VPC Beginner Lab
+## AWS VPC  Lab
 
 This project demonstrates how to design and deploy a secure AWS VPC
 with public and private subnets using best practices.
